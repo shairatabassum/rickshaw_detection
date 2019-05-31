@@ -1,0 +1,46 @@
+<annotation>
+  <folder>F:\STUDY\Trimester 12\Pattern Lab\Rickshaw Images\images</folder>
+  <filename>000492.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>2340</width>
+    <height>4160</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Rickshaw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>949</xmin>
+      <ymin>607</ymin>
+      <xmax>1546</xmax>
+      <ymax>2127</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Rickshaw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>321</xmin>
+      <ymin>714</ymin>
+      <xmax>1106</xmax>
+      <ymax>1888</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Rickshaw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1175</xmin>
+      <ymin>481</ymin>
+      <xmax>2294</xmax>
+      <ymax>2649</ymax>
+    </bndbox>
+  </object>
+</annotation>
